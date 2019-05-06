@@ -22,12 +22,11 @@
         right:6.5rem;
         background-image: radial-gradient($color-primary-light, $color-primary-dark);
         z-index: 1000;
-        transition:trasnform .8s;
+        transition:transform .8s;
 //        transform: scale(80);
     }
     &__nav{
         height: 100vh;
-       
         position: fixed;
         top:0;
         right: 0;
